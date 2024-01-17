@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.freepik.com/free-photo/cartoon-character-with-yellow-jacket-sunglasses_40058975.htm"  />
+  
 </div>
 
 ###
