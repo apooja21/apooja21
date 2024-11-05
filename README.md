@@ -56,13 +56,13 @@
 <h3 align="left">📱 Socials</h3>
 
 <div align="left">
-  <a href="www.linkedin.com/in/poojaagarwal21" target="_blank">
+  <a href="https://www.linkedin.com/in/poojaagarwal21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="33" alt="linkedin logo"  />
   </a>
-  <a href="darkphoenix8432" target="_blank">
+  <!-- <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="33" alt="discord logo"  />
-  </a>
-  <a href="poojaagarwal367@gmail.com" target="_blank">
+  </a> -->
+  <a href="mailto:poojaagarwal367@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="33" alt="gmail logo"  />
   </a>
 </div>
