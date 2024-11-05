@@ -65,6 +65,9 @@
   <a href="mailto:poojaagarwal367@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="33" alt="gmail logo"  />
   </a>
+   <a href="https://apooja.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="33" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
