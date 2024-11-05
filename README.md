@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="33" alt="gmail logo"  />
   </a>
    <a href="https://apooja.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="33" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/apooja21/apooja21/refs/heads/main/assets/pa-high-resolution-logo-transparent.svg" width="68" height="33" alt="My Portfolio"  />
   </a>
 </div>
 
