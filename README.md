@@ -56,18 +56,9 @@
 <h3 align="left">📱 Socials</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/poojaagarwal21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="33" alt="linkedin logo"  />
-  </a>
-  <!-- <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="33" alt="discord logo"  />
-  </a> -->
-  <a href="mailto:poojaagarwal367@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="33" alt="gmail logo"  />
-  </a>
-   <a href="https://apooja.dev/" target="_blank">
-    <img src="https://github.com/apooja21/apooja21/blob/3d8c6b7bb7df3fbc1bc6f10d70542d645eeb6393/assets/Portfolio.png" width="40" height="33" alt="My Portfolio"  />
-  </a>
+  <a href="https://www.linkedin.com/in/poojaagarwal21" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="33" alt="linkedin logo"  /></a>
+  <a href="mailto:poojaagarwal367@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="33" alt="gmail logo"  /></a>
+   <a href="https://apooja.dev/" target="_blank"><img src="https://github.com/apooja21/apooja21/blob/3d8c6b7bb7df3fbc1bc6f10d70542d645eeb6393/assets/Portfolio.png" width="33" height="33" alt="My Portfolio"  /></a>
 </div>
 
 ###
