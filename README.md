@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a Front End Developer from India.<br><br>- 📚 I'm currently learning React, NodeJS, MongoDB and Express<br>- ⚡ In my free time I like to indulge in my hobbies like painting, reading, playing pc games</p>
+<p align="left">I'm a Fullstack Developer.<br><br>- 
 
 ###
 
