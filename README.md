@@ -77,8 +77,5 @@ Hindi (native) · English (C1) · German (A1, currently improving)
 
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/poojaagarwal21)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:apooja.dev21@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:er.hazelaggarwal@gmail.com)
 
-## 📈 GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=apooja21&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apooja21&layout=compact&hide_border=true)
